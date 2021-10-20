@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
             "101268880, " +
             "2021-10-18, " +
             "PlayerController Updates ")]
+
     public BulletManager bulletManager;
 
     [Header("Boundary Check, 2021-10-18")]

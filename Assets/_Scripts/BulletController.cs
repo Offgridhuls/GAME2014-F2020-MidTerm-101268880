@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour, IApplyDamage
 {
+    [Header("BulletController, " +
+            "Julian Sangiorgio," +
+            "101268880," +
+            "2021-10-18," +
+            "Vertical Bullet Movement")]
     public float horizontalSpeed;
     public float horizontalBoundary;
     public BulletManager bulletManager;
